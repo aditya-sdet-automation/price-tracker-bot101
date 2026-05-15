@@ -1,0 +1,31 @@
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 5,999
+Data permanently saved to price_history.txt
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Excecution failed or timed out: last_known_price.txt (No such file or directory)
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Excecution failed or timed out: last_known_price.txt (No such file or directory)
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 5,999
+Data permanently saved to price_history.txt
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 5,999
+Data permanently saved to price_history.txt
+Session terminated. Browser closed
+There are no changes in current prices
