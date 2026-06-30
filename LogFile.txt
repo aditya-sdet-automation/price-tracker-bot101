@@ -29,3 +29,297 @@ The current price is: Rupees 5,999
 Data permanently saved to price_history.txt
 Session terminated. Browser closed
 There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 5,999
+Data permanently saved to price_history.txt
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.0.5-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 150.0.2, moz:accessibilityChecks: false, moz:buildID: 20260510010106, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 7.0.5-2-cachyos, moz:processID: 2021, moz:profile: /tmp/rust_mozprofileQxcQWR, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 5,999
+Data permanently saved to price_history.txt
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.0.5-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 150.0.2, moz:accessibilityChecks: false, moz:buildID: 20260510010106, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 7.0.5-2-cachyos, moz:processID: 2025, moz:profile: /tmp/rust_mozprofile2tiWl1, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.0.5-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 150.0.2, moz:accessibilityChecks: false, moz:buildID: 20260510010106, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 7.0.5-2-cachyos, moz:processID: 2025, moz:profile: /tmp/rust_mozprofile2tiWl1, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.0.5-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 150.0.2, moz:accessibilityChecks: false, moz:buildID: 20260510010106, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 7.0.5-2-cachyos, moz:processID: 2025, moz:profile: /tmp/rust_mozprofile2tiWl1, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+EMAIL ALERT SENT SUCCESSFULLY
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 6,499
+Data permanently saved to price_history.txt
+Jun 27, 2026 8:39:36 PM org.openqa.selenium.os.ExternalProcess$Builder lambda$start$0
+WARNING: failed to copy the output of process 2013
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.InputStream.transferTo(InputStream.java:796)
+	at java.base/java.io.BufferedInputStream.implTransferTo(BufferedInputStream.java:657)
+	at java.base/java.io.BufferedInputStream.transferTo(BufferedInputStream.java:637)
+	at org.openqa.selenium.os.ExternalProcess$Builder.lambda$start$0(ExternalProcess.java:210)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 6,499
+Data permanently saved to price_history.txt
+Jun 27, 2026 9:07:13 PM org.openqa.selenium.os.ExternalProcess$Builder lambda$start$0
+WARNING: failed to copy the output of process 1691
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.InputStream.transferTo(InputStream.java:796)
+	at java.base/java.io.BufferedInputStream.implTransferTo(BufferedInputStream.java:657)
+	at java.base/java.io.BufferedInputStream.transferTo(BufferedInputStream.java:637)
+	at org.openqa.selenium.os.ExternalProcess$Builder.lambda$start$0(ExternalProcess.java:210)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 1712, moz:profile: /tmp/rust_mozprofileFxDzxg, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-139d90e95c6sm43499205c88.11 - gsmtp
+
+Session terminated. Browser closed
+ALERT, PRICE LOWERED!!!
+PRICE DROPPED BY 93.468276063076%!
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-30c7c8b1a80sm28750766eec.18 - gsmtp
+
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 1712, moz:profile: /tmp/rust_mozprofileFxDzxg, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c7f64dc839sm59787945ad.68 - gsmtp
+
+Session terminated. Browser closed
+ALERT, PRICE LOWERED!!!
+PRICE DROPPED BY 93.468276063076%!
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-845ba19f72bsm5003951b3a.20 - gsmtp
+
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 1712, moz:profile: /tmp/rust_mozprofileFxDzxg, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-845a40d8f2bsm8778629b3a.38 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 6,499
+Data permanently saved to price_history.txt
+Jun 28, 2026 8:45:05 PM org.openqa.selenium.os.ExternalProcess$Builder lambda$start$0
+WARNING: failed to copy the output of process 2042
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.InputStream.transferTo(InputStream.java:796)
+	at java.base/java.io.BufferedInputStream.implTransferTo(BufferedInputStream.java:657)
+	at java.base/java.io.BufferedInputStream.transferTo(BufferedInputStream.java:637)
+	at org.openqa.selenium.os.ExternalProcess$Builder.lambda$start$0(ExternalProcess.java:210)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2070, moz:profile: /tmp/rust_mozprofileBA9zxN, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-30c7c199561sm44688868eec.0 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2070, moz:profile: /tmp/rust_mozprofileBA9zxN, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-37e2048ffdbsm4423827a91.17 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2070, moz:profile: /tmp/rust_mozprofileBA9zxN, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-845a40f54bfsm9981842b3a.46 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 6,499
+Data permanently saved to price_history.txt
+Jun 29, 2026 12:30:12 PM org.openqa.selenium.os.ExternalProcess$Builder lambda$start$0
+WARNING: failed to copy the output of process 1979
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.InputStream.transferTo(InputStream.java:796)
+	at java.base/java.io.BufferedInputStream.implTransferTo(BufferedInputStream.java:657)
+	at java.base/java.io.BufferedInputStream.transferTo(BufferedInputStream.java:637)
+	at org.openqa.selenium.os.ExternalProcess$Builder.lambda$start$0(ExternalProcess.java:210)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2102, moz:profile: /tmp/rust_mozprofileziuY5Z, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-845a4002c75sm11305369b3a.26 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2102, moz:profile: /tmp/rust_mozprofileziuY5Z, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-30c7ca5e601sm45889625eec.25 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2102, moz:profile: /tmp/rust_mozprofileziuY5Z, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c979d035c3sm60881945ad.73 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 2102, moz:profile: /tmp/rust_mozprofileziuY5Z, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c9ea00b342sm33258165ad.3 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initiating Browser Hijack
+Initialising direct link connection
+Page loaded, hunting for price element
+The current price is: Rupees 6,499
+Data permanently saved to price_history.txt
+Jun 30, 2026 12:19:42 PM org.openqa.selenium.os.ExternalProcess$Builder lambda$start$0
+WARNING: failed to copy the output of process 1954
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.InputStream.transferTo(InputStream.java:796)
+	at java.base/java.io.BufferedInputStream.implTransferTo(BufferedInputStream.java:657)
+	at java.base/java.io.BufferedInputStream.transferTo(BufferedInputStream.java:637)
+	at org.openqa.selenium.os.ExternalProcess$Builder.lambda$start$0(ExternalProcess.java:210)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Session terminated. Browser closed
+There are no changes in current prices
+Initialising direct link connection
+Excecution failed or timed out: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '7.1.1-2-cachyos', java.version: '21.0.11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, get {url=https://www.amazon.in/OnePlus-Real-time-Adaptive-Dual-Device-connectivity/dp/B0FCMPJQ1J}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 152.0.3, moz:accessibilityChecks: false, moz:buildID: 20260625132349, moz:geckodriverVersion: 0.37.0, moz:headless: true, moz:platformVersion: 7.1.1-2-cachyos, moz:processID: 1986, moz:profile: /tmp/rust_mozprofileYRseIn, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+failed to send email. Error: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8479fff9744sm1361001b3a.14 - gsmtp
+
+Session terminated. Browser closed
+There are no changes in current prices
